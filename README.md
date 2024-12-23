@@ -1,1 +1,1 @@
-# sample-app
+# Sample App - Dev Branch
